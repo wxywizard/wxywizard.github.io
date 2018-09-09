@@ -18,7 +18,8 @@ favicon: FaviconLogo.png
 repository: wxywizard/wxywizard.github.io
 github_url: https://github.com/wxywizard
 #cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.wxywizard.com
+#url: http://www.wxywizard.com
+url: https://wxywizard.github.io/
 enforce_ssl: wxywizard.com
 
 ## Gem

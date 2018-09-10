@@ -18,6 +18,7 @@ favicon: FaviconLogo.png
 repository: wxywizard/wxywizard.github.io
 github_url: https://github.com/wxywizard
 #cnblog_url: http://www.cnblogs.com/ityouknow
+weibo_url: https://www.weibo.com/5955623061
 #url: http://www.wxywizard.com
 url: https://wxywizard.github.io/
 enforce_ssl: wxywizard.com
@@ -92,11 +93,11 @@ labels:
 
   -
     href: /spring-boot.html
-    label: Spring-Boot
+    name: Spring-Boot
 
   -
     href: /spring-cloud.html
-    label: Spring-Cloud
+    name: Spring-Cloud
     
   -
     href: /jvm.html

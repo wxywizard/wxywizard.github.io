@@ -1,7 +1,7 @@
 ---
 layout: post
-title: java-god测试
-category: javagod
+title: Spring Boot 2.0(八)：Spring Boot 集成 Memcached
+category: springboot
 no-post-nav: true
 tags: [springboot]
 keywords: Spring Boot,Memcached

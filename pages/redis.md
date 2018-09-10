@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 回首向来萧瑟处，归去，也无风雨也无晴。
-titlebar: life
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 便纵有千种风情，更与何人说？
-menu: life
+title: Redis系列文章
+titlebar: Redis
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Redis系列文章
+menu: Redis
 css: ['blog-page.css']
-permalink: /life
+permalink: /redis
 ---
 
 <div class="row">
@@ -14,7 +14,7 @@ permalink: /life
 
         <ul id="posts-list">
             {% for post in site.posts %}
-                {% if post.category=='life' %}
+                {% if post.category=='redis' %}
                 <li class="posts-list-item">
                     <div class="posts-content">
                         <span class="posts-list-meta">{{ post.date | date: "%Y-%m-%d" }}</span>

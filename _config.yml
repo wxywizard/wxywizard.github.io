@@ -104,7 +104,7 @@ labels:
     name: Jvm
 
   -
-    href: /reids.html
+    href: /redis.html
     name: Redis
 
   -

@@ -18,6 +18,7 @@ favicon: FaviconLogo.png
 repository: wxywizard/wxywizard.github.io
 github_url: https://github.com/wxywizard
 #cnblog_url: http://www.cnblogs.com/ityouknow
+weibo_url:https://www.weibo.com/5955623061/profile?rightmod=1&wvr=6&mod=personinfo
 #url: http://www.wxywizard.com
 url: https://wxywizard.github.io/
 enforce_ssl: wxywizard.com
@@ -67,14 +68,6 @@ navs:
     label: java成神之路
 
   -
-    href: /spring-boot.html
-    label: Spring-Boot
-
-  -
-    href: /spring-cloud.html
-    label: Spring-Cloud
-
-  -
     href: /archives.html
     label: Archives
 
@@ -91,24 +84,28 @@ navs:
 labels:
 
   -
-    href: /share/2017/10/01/resource-sharing.html
-    name: 资源
-
-  -
     href: /life.html
     name: 故事
 
   -
     href: /arch.html
     name: 架构
+
+  -
+    href: /spring-boot.html
+    label: Spring-Boot
+
+  -
+    href: /spring-cloud.html
+    label: Spring-Cloud
     
   -
     href: /jvm.html
     name: Jvm
 
   -
-    href: /fastdfs.html
-    name: FastDFS
+    href: /reids.html
+    name: Redis
 
   -
     href: /mongodb.html
@@ -119,6 +116,10 @@ labels:
     name: Docker
 
   -
+    href: /linux.html
+    name: Linux
+
+  -
     href: /open-source.html
     name: Code   
 
@@ -127,7 +128,7 @@ classes:
 
   -
     href: /life.html
-    name: 我的故事
+    name: 听雨悟声
     describe: 生活就是故事，故事就是生活
 
   -
@@ -188,4 +189,4 @@ gitalk:
     clientSecret: 014e2bb108449c34d74f79861e46d693b789e6ff
     id: window.location.pathname
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : true
+lazy_load_disqus : false

@@ -24,7 +24,6 @@ enforce_ssl: wxywizard.com
 
 ## Gem
 plugins:
-  - jekyll-feed
   - jekyll-paginate
   - jekyll-geo-pattern
   - rouge

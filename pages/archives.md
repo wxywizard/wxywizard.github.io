@@ -2,8 +2,7 @@
 layout: page
 title: All articles are here
 titlebar: archives
-subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;博文汇总
-<!--<span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; <a href ="http://www.ityouknow.com/arch.html"><font color="#1A0DAB">架构</font></a>&nbsp;&nbsp; <a href ="http://www.ityouknow.com/life.html"><font color="#EB9439">故事</font></a>&nbsp;&nbsp; <a href ="http://www.ityouknow.com/jvm.html"><font color="#23527C">JVM</font></a>&nbsp;&nbsp; <a href ="http://www.ityouknow.com/docker.html"><font color="#1E90FF">Docker</font></a>-->
+subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; <a href ="http://www.jiangxinlingdu.com/arch.html"><font color="#1A0DAB">架构</font></a>&nbsp;&nbsp; <a href ="http://www.jiangxinlingdu.com/life.html"><font color="#EB9439">故事</font></a>&nbsp;&nbsp; <a href ="http://www.jiangxinlingdu.com/jvm.html"><font color="#23527C">JVM</font></a>&nbsp;&nbsp; <a href ="http://www.jiangxinlingdu.com/docker.html"><font color="#1E90FF">Docker</font></a>
 menu: archives
 css: ['blog-page.css']
 permalink: /archives.html

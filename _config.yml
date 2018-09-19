@@ -19,8 +19,8 @@ repository: wxywizard/wxywizard.github.io
 github_url: https://github.com/wxywizard
 #cnblog_url: http://www.cnblogs.com/ityouknow
 weibo_url: https://www.weibo.com/5955623061
-#url: http://www.wxywizard.com
-url: https://wxywizard.github.io/
+url: http://www.wxywizard.com
+#url: https://wxywizard.github.io/
 enforce_ssl: wxywizard.com
 
 ## Gem
@@ -64,8 +64,12 @@ navs:
     label: Home
 
   -
-    href: /java-god.html
-    label: java成神之路
+    href: /spring-boot.html
+    label: Spring-Boot
+
+  -
+    href: /spring-cloud.html
+    label: Spring-Cloud
 
   -
     href: /archives.html
@@ -92,12 +96,8 @@ labels:
     name: 架构
 
   -
-    href: /spring-boot.html
-    name: Spring-Boot
-
-  -
-    href: /spring-cloud.html
-    name: Spring-Cloud
+    href: /java-god.html
+    name: java成神之路
     
   -
     href: /jvm.html

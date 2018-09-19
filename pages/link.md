@@ -28,13 +28,9 @@ permalink: /link
 
 ## 个人链接
 
-- [ityouknow](http://www.ityouknow.com/) - 个人独立博客
-- [github](https://github.com/ityouknow) -  我分享代码的地方
-- [微博](http://weibo.com/ityouknow) -  我的微博
-- [知乎](https://www.zhihu.com/people/ityouknow) - 个人知乎地址，用的不太多大多数都在潜水
-- [博客园](https://www.cnblogs.com/ityouknow/) - 博客园个人博客，最开始写博客的地方
-- [CSDN](http://blog.csdn.net/ityouknow)  - 最开始写博客的地方
-- [51CTO](http://blog.51cto.com/ityouknow) - 51Cto地址，虽然一直没有用过
+- [ityouknow](http://www.wxywizard.com/) - 个人独立博客
+- [github](https://github.com/wxywizard) -  我分享代码的地方
+- [微博](https://www.weibo.com/5955623061) -  我的微博
 
 ## 其它  
 

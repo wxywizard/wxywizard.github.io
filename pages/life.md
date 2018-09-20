@@ -2,7 +2,7 @@
 layout: page
 title: 回首向来萧瑟处，归去，也无风雨也无晴。
 titlebar: life
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 便纵有千种风情，更与何人说？
+subtitle: <span class="mega-octicon octicon-organization" style="color: white; "></span>&nbsp;&nbsp; 便纵有千种风情，更与何人说？
 menu: life
 css: ['blog-page.css']
 permalink: /life
